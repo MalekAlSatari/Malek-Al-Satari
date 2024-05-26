@@ -1,0 +1,4 @@
+main
+	ADCInit
+	servoinit
+	ADC_read0
